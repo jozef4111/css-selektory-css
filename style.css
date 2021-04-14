@@ -1,0 +1,21 @@
+h1 {
+    background-color: darkmagenta;
+}
+
+h3 {
+    background-color: cadetblue;
+}
+
+
+.tekst1 {
+    color: blueviolet;
+}
+
+.tekst2 {
+    color: cyan;
+}
+
+h1 + h3 {
+    color: orange;
+
+}
